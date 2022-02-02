@@ -1,0 +1,7 @@
+{
+  "name": "AlloProprio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
